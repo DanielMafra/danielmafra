@@ -7,7 +7,7 @@ A mobile and full stack developer from Santa Catarina, Brazil.
 * React Native
 * ReactJS
 * Node.js
-* and complementary, such as: redux, express, postgres, mongodb...
+* and complementary, such as: Redux, Express, PostgreSQL, MongoDB...
 
 ### Know more about me 👇
 
