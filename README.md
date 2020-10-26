@@ -1,13 +1,12 @@
 # Hi, I'm Daniel Mafra! 👋
 
-A mobile and full stack developer from Santa Catarina, Brazil.
+A mobile and front-end developer from Santa Catarina, Brazil.
 
 ### My main technologies:
 
 * React Native
 * ReactJS
-* Node.js
-* and complementary, such as: Redux, Express, PostgreSQL, MongoDB...
+* and the back-end basics with NodeJS + Express
 
 ### Know more about me 👇
 
